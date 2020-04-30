@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a82f2ac8-7499-4bd3-ad58-ecea429bd8ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../OOP/.ipynb_checkpoints/OOP-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/.ipynb_checkpoints/OOP-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/OOP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/OOP.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/decorator.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/decorator.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOP/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOP/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../week1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1RWAVawsGXiBllYQ4eiMoTAxLci" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week1" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a82f2ac8-7499-4bd3-ad58-ecea429bd8ac" name="Default Changelist" comment="" />
+      <created>1569772502474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569772502474</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1583436815869">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="362" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.732@0.0.1366.732" timestamp="1583436815869" />
+  </component>
+</project>
